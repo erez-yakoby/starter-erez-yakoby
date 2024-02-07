@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <WebsiteScreen>
       <div> this is my change</div>
+      <div> this is my second change</div>
       <div className="grid">
         <div className="center padding-2 text-xl">
           <span>{COURSE_WELCOME_TEXT}</span>
